@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Alejandro Vargas but I like if they say my alias: Lex
+
 <!--
 **obersd/obersd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

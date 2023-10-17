@@ -81,3 +81,11 @@ My nickname is **Lex**, I'm a software engineer from Mexico. I'm passionate abou
 Usually I work at home in Cuautitlan Mexico 😀 but sometimes I work in a coworking space
 
 ![](https://www.vectorlogo.zone/logos/wework/wework-ar21.svg)
+
+
+## My badges
+
+- [AWS DVA-C02](https://www.credly.com/badges/9db35e20-1345-42af-a649-2603cbaa1a9b/public_url)
+- [AWS CLF-C01](https://www.credly.com/badges/457c692b-d460-4292-b170-63687681371e/public_url)
+- [Microsoft MCSD: AppBuilder](https://www.credly.com/badges/7c22ba79-b354-413b-9100-a9aac45e0ce3/public_url)
+- [Microsoft MCSA: Web Applications](https://www.credly.com/badges/d879e272-f323-49b2-a704-8d6c979c70dd/public_url)
